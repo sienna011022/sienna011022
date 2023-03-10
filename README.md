@@ -27,9 +27,8 @@ To stay remunerated the code I am interested in clean code, TDD <br>
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-[![Sienna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sienna011022)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sienna011022&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sienna011022&show_icons=true">
  <br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
