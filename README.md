@@ -3,12 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Welcome🎈&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome Sienna's github profile !
- I am a person who feels the most enjoyable when developing.<br>
- I want to make my code creative to affect the people with my service<br>
- I will try to get a better me than yesterday <br>
-To stay remunerated the code I am interested in clean code, TDD <br>
- I can respond quickly and flexibly to any situation with a variety of social experiences.<br>
-  
+ 개발을 할 때 즐겁습니다<br>
+ 어제보다 더 나은 오늘을 위해 노력합니다<br>
+ 
  <br/>
   
 <h3 align="center">📚 Tech Stack 📚</h3>
