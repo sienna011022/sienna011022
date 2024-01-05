@@ -3,19 +3,19 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Welcome🎈&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome Sienna's github profile !
- 개발을 할 때 즐겁습니다<br>
  어제보다 더 나은 오늘을 위해 노력합니다<br>
  
  <br/>
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Typescript-ffw13b?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Typescript-ffw13b?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
+
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Nest.js-6DB33F?style=flat-square&logo=Nest.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
